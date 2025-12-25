@@ -87,6 +87,3 @@ Data was sourced from publicly available global population datasets and initiall
 
 This Power BI dashboard demonstrates the effective use of **data visualization and analytical techniques** to transform complex population data into actionable insights. The project highlights skills in **data modeling, DAX, and dashboard storytelling**, making it a strong addition to any data analytics or business intelligence portfolio.
 
-
-
-
